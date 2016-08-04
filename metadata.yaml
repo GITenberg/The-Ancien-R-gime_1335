@@ -1,0 +1,31 @@
+_repo: The-Ancien-R-gime_1335
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: ''
+gutenberg_issued: '1998-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History'
+- !lcsh 'France -- Politics and government'
+- !lcsh 'France -- Social conditions'
+- !lcc 'DC'
+- GITenberg
+tableOfContents: Preface -- Caste -- Centralization -- The explosive forces.
+title: The Ancien Régime
+url: http://www.gutenberg.org/ebooks/1335
